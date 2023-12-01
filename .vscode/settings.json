@@ -3,13 +3,13 @@
     "python.testing.unittestArgs": [
         "-v",
         "-s",
-        "./Tests",
+        "./tests",
         "-p",
         "*_test.py"
     ],
 
     "python.testing.pytestEnabled": true,
     "python.testing.pytestArgs": [
-        "./Tests"
+        "./tests"
     ],
 }
